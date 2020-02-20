@@ -1,0 +1,24 @@
+.footer{
+  background-color: #2C2B2B;
+  text-align: center;
+  padding: 60px;
+  height: 100px;
+  color: #6B6C6C;
+  margin-top: 40px;
+}
+
+.fab{
+  color: #1EDD88;
+  font-size: 30px;
+}
+
+.footer .container ul li{
+  list-style: none;
+  display: inline-block;
+  margin: 0 15px 0 0;
+  padding: 0;
+}
+
+.fa-heart{
+  color: red;
+}

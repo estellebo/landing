@@ -1,0 +1,39 @@
+.cards{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.card{
+  width: 25%;
+  position: relative;
+  border: 1px solid rgb(230,230,230);
+  box-shadow: 0 0 5px rgb(230,230,230);
+  padding: 20px;
+  text-align: center;
+  height: 220px;
+}
+
+.card p{
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 203px;
+  margin: auto;
+}
+
+.card h3{
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 155px;
+  margin: auto;
+}
+
+.card img{
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 30px;
+  margin: auto;
+}
